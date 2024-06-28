@@ -1,0 +1,118 @@
+1. Getting Started
+1.1 Welcome!
+1.2 Pacing Guide
+2. Introduction to Python
+2.1 Programming (general)
+2.2 Programming using Python
+2.3 Basic input and output
+2.4 Errors
+2.5 Development environment
+2.6 Computers and programs (general)
+2.7 Computer tour
+2.8 Language history
+2.9 Why whitespace matters
+2.10 Python example: Salary calculation
+2.11 Additional practice: Output art
+2.12 zyLab training: Basics
+2.13 zyLab training: Interleaved input / output
+2.14 LAB: Formatted output: Hello World!
+2.15 LAB: Input: Welcome message
+2.16 zyBooks built-in programming window
+3. Variables and Expressions
+3.1 Variables and assignments
+3.2 Identifiers
+3.3 Objects
+3.4 Numeric types: Floating-point
+3.5 Arithmetic expressions
+3.6 Python expressions
+3.7 Division and modulo
+3.8 Module basics
+3.9 Math module
+3.10 Representing text
+3.11 Additional practice: Number games
+3.12 LAB: Divide input integers
+3.13 LAB: Expression for calories burned during workout
+3.14 LAB: Using math functions
+3.15 LAB: Musical note frequencies
+4. Types
+4.1 String basics
+4.2 List basics
+4.3 Tuple basics
+4.4 Set basics
+4.5 Dictionary basics
+4.6 Common data types summary
+4.7 Additional practice: Grade calculation
+4.8 Type conversions
+4.9 Binary numbers
+4.10 String formatting
+4.11 Additional practice: Health data
+4.12 LAB: Input and formatted output: Caffeine levels
+4.13 LAB: Input and formatted output: House real estate summary
+4.14 LAB: Simple statistics
+5. Branching
+6. Loops
+7. Functions
+8. Troubleshooting Process
+9. Program Debugging
+10. Strings
+11. Lists and Dictionaries
+11.1 Lists
+11.2 List methods
+11.3 Iterating over a list
+11.4 List games
+11.5 List nesting
+11.6 List slicing
+11.7 Loops modifying lists
+11.8 List comprehensions
+11.9 Sorting lists
+11.10 Command-line arguments
+11.11 Additional practice: Engineering examples
+11.12 Dictionaries
+11.13 Dictionary methods
+11.14 Iterating over a dictionary
+11.15 Dictionary nesting
+11.16 LAB: Varied amount of input data
+11.17 LAB: Filter and sort a list
+11.18 LAB: Elements in a range
+11.19 LAB: Contact list
+11.20 LAB: Check if list is sorted
+11.21 Lists and dictionaries practice
+12. Exceptions
+13. Modules
+14. Files
+15. Optional: Classes
+16. Optional: Inheritance
+17. Optional: Recursion
+18. Optional: Plotting
+19. Optional: Searching and Sorting Algorithms
+20. Optional: Additional Material
+21. Additional Labs: Introduction to Python 3
+22. Additional Labs: Variables and Expressions
+23. Additional Labs: Types
+23.1 LAB: Warm up: Creating passwords
+23.2 LAB*: Program: Painting a wall
+24. Additional Labs: Branching
+24.1 LAB: Remove gray from RGB
+24.2 LAB: Longest string
+24.3 LAB: Max of 2
+24.4 LAB: Max of 3
+24.5 LAB: Warm up: Automobile service cost
+24.6 LAB*: Program: Automobile service invoice
+24.7 LAB: Median of 3
+24.8 LAB: Speeding ticket
+24.9 LAB: Movie ticket prices
+24.10 LAB: How many digits
+24.11 LAB: Phrases and subphrases
+24.12 LAB: Count odd numbers
+24.13 LAB: Alphabetical order (chars)
+24.14 LAB: Comparing floats
+25. Additional Labs: Loops
+26. Additional Labs: Functions
+27. Additional Labs: Strings
+28. Additional Labs: Lists and Dictionaries
+29. Additional Labs: Classes
+30. Additional Labs: Exceptions
+31. Additional Labs: Files
+32. Additional Labs: Recursion
+33. Practice Test
+34. Practice Test 2
