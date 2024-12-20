@@ -17,7 +17,7 @@ if __name__ == '__main__':
         with open(outfile_name, 'w') as outfile:
             for line in infile:
                 line = line.strip()
-                if (re.search("^\d+%$", line)) or line in ['No activities', 'Print chapter', 'Optional', '']:
+                if (re.search("^\d+%$", line)) or line in ['No activities', 'Print chapter', 'Optional', '', 'not complete', 'L', 'P', 'C']:
                     print(f'Junk line found: {line}')
                 else:
                     print(f'Non-junk line found: {line}')
